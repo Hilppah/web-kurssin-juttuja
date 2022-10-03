@@ -1,0 +1,36 @@
+.tausta {
+    margin: 30px;
+    background-color: pink;
+}
+
+div{
+    margin-bottom: 20px;
+}
+
+label{
+    display: inline-block;
+    width: 100px;
+}
+
+button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:palevioletred;
+    color: white;
+    border-color: pink;
+  }
+
+  h1 {
+    border-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: palevioletred
+    
+    
+  }
+
+  p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:palevioletred
+
+  }
+
+  
